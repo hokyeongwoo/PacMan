@@ -4,7 +4,7 @@ This code is free to be used for your personnal projects.  This code base CANNOT
 
 Please contact me if you want to use this code base for commerical products.
 
-I have given the rights to derive commerical products from this code base to the folowing individuals:
+I have given the rights to derive commerical products from this code base to the following individuals:
 
 1) Paul Falstad
 
